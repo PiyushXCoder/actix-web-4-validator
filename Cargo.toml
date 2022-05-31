@@ -23,7 +23,7 @@ repository = "https://github.com/PiyushXCoder/actix-web-4-validator"
 documentation = "https://docs.rs/actix-web-4-validator/"
 
 [dependencies]
-actix-web = { version = "4.0.0-rc.3", default-features = false }
+actix-web = { version = "4.0.1", default-features = false }
 # actix-http = { version = "2" }
 # derive_more = "0.99"
 validator = { version = "0.14" }
